@@ -1,3 +1,3 @@
 export { Button } from "./Button";
-export { SelectBox } from "./SelectBox";
+export { Img } from "./Img";
 export { Text } from "./Text";
