@@ -2,8 +2,7 @@ import React from "react";
 
 const sizeClasses = {
   txtInterRegular60: "font-inter font-normal",
-  txtInterRegular30: "font-inter font-normal",
-  txtInterRegular30Black9007a: "font-inter font-normal",
+  txtInterRegular14: "font-inter font-normal",
 } as const;
 
 export type TextProps = Partial<{
