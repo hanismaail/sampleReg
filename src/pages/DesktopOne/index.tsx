@@ -138,8 +138,8 @@ const DesktopOnePage: React.FC = () => {
                 </div>
               </div>
             </div>
-            <div className="flex flex-col font-montserrat items-center justify-center md:ml-[0] ml-[582px] py-[3px] w-auto">
-              <Button className="bg-light_blue-A700 cursor-pointer font-semibold min-w-[121px] py-[21px] rounded-[30px] shadow-bs text-center text-sm text-white-A700">
+            <div className="flex flex-col font-montserrat items-start justify-center md:ml-[0] ml-[582px] py-[3px] w-auto">
+              <Button className="bg-light_blue-A700 cursor-pointer font-semibold grid min-w-[121px] ml-[-18px] md:ml-[0] mr-[0] my-0 py-[21px] rounded-[30px] shadow-bs text-center text-sm text-white-A700">
                 Sign Up
               </Button>
             </div>
